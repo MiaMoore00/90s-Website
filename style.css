@@ -1,0 +1,40 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/f2/ce/bd/f2cebd5bd7e7e34d3ec38bea6447c10b.gif");
+  background-repeat: repeat;
+}
+
+
+
+  
+  .Logo {
+ text-align: center;
+
+}
+
+ .container{
+  display:flex;
+  align-content: center;
+  justify-content:space-between;
+  margin-top: 5%;
+  
+ }
+
+
+   
+ .oldPic {
+  text-align: center;
+  
+ }
+ .p1 {
+ border-style:dotted;
+  font-size: large;
+  text-align: center;
+   margin: 20px;
+    color: #FFFFFF;
+    background: #333333;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    color: #FFFFFF;
+    background: #333333;
+    }
+ 
+    
